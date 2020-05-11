@@ -2,7 +2,7 @@ body {
   font-size: 14px;
   font-family: Verdana, sans-serif;
   padding: 20px;
-  background: rgb(173, 175, 173);
+  background: #ccc;
 }
 
 h1 {
@@ -20,7 +20,7 @@ input[type="text"] {
   padding: 6px 8px;
   font-size: 14px;
   width: 300px;
-  border: 1px solid blue;
+  border: 1px solid skyblue;
   outline: 0;
 }
 
